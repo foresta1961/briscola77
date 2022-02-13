@@ -2,7 +2,7 @@ body {
   background-color: aqua;
 }
 p {
-  font-size: 40pt;
+  font-size: 30pt;
   color: rgb(216, 29, 29);
   text-align: center;
 }
@@ -27,7 +27,7 @@ p2 {
 }
 .customTable{
   margin: 15 px;
-  width: 300px;
+  width: 250px;
   border-collapse: collapse;
   background-color: white;
 }
