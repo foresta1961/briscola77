@@ -2,12 +2,12 @@ body {
   background-color: aqua;
 }
 p {
-  font-size: 30pt;
+  font-size: 20pt;
   color: rgb(216, 29, 29);
   text-align: center;
 }
 p1 {
-  font-size: 30pt;
+  font-size: 20pt;
   color: rgb(15, 15, 51);
 }
 
@@ -27,7 +27,7 @@ p2 {
 }
 .customTable{
   margin: 15 px;
-  width: 250px;
+  width: 300px;
   border-collapse: collapse;
   background-color: white;
 }
