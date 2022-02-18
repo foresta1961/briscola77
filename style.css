@@ -1,36 +1,35 @@
 body {
   background-color: aqua;
 }
+
 p {
   font-size: 25pt;
   color: rgb(216, 29, 29);
   text-align: center;
 }
+
 p1 {
   font-size: 20pt;
   color: rgb(15, 15, 51);
 }
 
- 
-}
 p2 {
- 
   color: rgb(216, 29, 29);
   font-size: 25pt;
 }
-.customTable, .customTable, td,.th{
- 
+
+.customTable,
+.customTable,
+td,
+.t {
   text-align: center;
   color: rgb(216, 29, 29);
   font-size: 20pt;
-
 }
-.customTable{
+
+.customTable {
   margin: 15 px;
   width: 300px;
   border-collapse: collapse;
   background-color: white;
 }
-
-
-
