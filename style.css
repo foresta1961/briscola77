@@ -8,13 +8,13 @@ body {
 
 p {
   font-size: 25pt;
-  color: rgb(216, 29, 29);
+  color: rgb(22, 238, 69);
   text-align: center;
 }
 
 p1 {
   font-size: 20pt;
-  color: rgb(15, 15, 51);
+  color: rgb(212, 12, 12);
 }
 
 p2 {
@@ -36,4 +36,7 @@ td,
   width: 300px;
   border-collapse: collapse;
   background-color: #f5fffa;
+}
+h3{
+  color: rgb(9,9,187);
 }
