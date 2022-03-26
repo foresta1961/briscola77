@@ -8,7 +8,7 @@ body {
 
 p {
   font-size: 25pt;
-  color: rgb(22, 238, 69);
+  color: greenyellow;
   text-align: center;
 }
 
@@ -36,7 +36,14 @@ td,
   width: 300px;
   border-collapse: collapse;
   background-color: #f5fffa;
+  border-radius: 10px;
 }
-h3{
-  color: rgb(9,9,187);
+h3 {
+  color: rgb(9, 9, 187);
+}
+.bottone {
+  padding: 5px 10px;
+  border-radius: 50px;
+  background-color: greenyellow;
+  color: black;
 }
