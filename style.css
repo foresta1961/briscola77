@@ -1,5 +1,4 @@
 body {
-  /*background-color: aqua;*/
   background-image: url("immagini/mare.jpg");
   background-repeat: no-repeat;
   background-position: center;
@@ -16,18 +15,11 @@ h1 {
 p1 {
   text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0-1px black;
   font-size: 25pt;
-  color: rgb(218, 10, 10);
+  color: rgb(231, 68, 14);
 }
-
-p2 {
-  color: rgb(216, 29, 29);
-  font-size: 25pt;
-}
-
 .customTable,
-.customTable,
-td,
-.t {
+td {
+  font-family: Arial, Helvetica, sans-serif;
   text-align: center;
   color: rgb(216, 29, 29);
   font-size: 20pt;
@@ -39,6 +31,10 @@ td,
   border-collapse: collapse;
   background-color: #f5fffa;
   border-radius: 10px;
+}
+th {
+  color: rgb(9, 9, 187);
+  font-family: Arial, Helvetica, sans-serif;
 }
 h3 {
   color: rgb(9, 9, 187);
