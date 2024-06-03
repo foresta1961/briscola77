@@ -1,28 +1,28 @@
 body {
-  background-image: url("immagini/aurora.jpg");
+  background-image: url("immagini/spiaggia.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: auto;
 }
 
 h1 {
-  text-shadow: -1px 0 black, 0 3px black, 1px 0 black, 0-1px black;
+  text-shadow: -1px 0 black, 0 2px black, 1px 0 black, 0-1px black;
   font-size: 25pt;
-  color: #00bfff;
+  color: blue;
   text-align: center;
 }
 
 p1 {
-  text-shadow: -0px 0 black, 0 0px black, 3px 0 black, 0-0px black;
+  text-shadow: -0px 0 black, 0 0px black, 2px 0 black, 0-0px black;
   font-size: 25pt;
-  color: #00bfff;
+  color: blue;
 }
 .customTable,
 td {
   font-family: Arial, Helvetica, sans-serif;
   text-align: center;
-  color: #fffafa;
-  text-shadow: -0px 0 black, 0 0px black, 3px 0 black, 0 0px black;
+  color: red;
+  text-shadow: -0px 0 black, 0 0px black, 2px 0 black, 0 0px black;
   font-size: 20pt;
 }
 
@@ -34,12 +34,12 @@ td {
   border-radius: 10px;
 }
 th {
-  color: #fffafa;
+  color: red;
   font-family: Arial, Helvetica, sans-serif;
 }
 h3 {
-  color: #fffafa;
-  text-shadow: -0px 0 black, 0 0px black, 3px 0 black, 0-0px black;
+  color: red;
+  text-shadow: -0px 0 black, 0 0px black, 2px 0 black, 0-0px black;
   font-size: 20pt;
 }
 .bottone {
